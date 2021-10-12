@@ -33,9 +33,9 @@ We want to see if we can dive deep into this data to find some valuable insights
 
 Steps and tasks:
 
-Import the necessary libraries 
-Read the data as a data frame 
-Perform basic EDA which should include the following and print out your insights at every step.
+1)Import the necessary libraries 
+2)Read the data as a data frame 
+3)Perform basic EDA which should include the following and print out your insights at every step.
 
 a. Shape of the data 
 
@@ -55,7 +55,7 @@ h. Distribution of categorical columns (include children)
 
 i. Pair plot that includes all the columns of the data frame
 
-4. Answer the following questions with statistical evidence
+4) Answer the following questions with statistical evidence
 
 a. Do charges of people who smoke differ significantly from the people who don't? 
 
